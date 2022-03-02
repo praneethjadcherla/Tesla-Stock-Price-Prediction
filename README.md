@@ -11,7 +11,7 @@ The purpose of this project is to automate the stock forecasting process to get 
 
 ### Instructions to Run
 
-1. Download the attached .pynb file into your local machine.
+1. Download the attached .ipynb file into your local machine.
 2. Also download and install the Jupyter notebook from Anaconda software into the system if it is not already installed on the system.
-3. Open the .pynb files in Jupyter notebook and click on the run cells in the notebook.
+3. Open the .ipynb files in Jupyter notebook and click on the run cells in the notebook.
 4. Then you can see all the code chunks are being executed by showing the different outputs of visualized graphs. If you see any error once make sure to install all libraries that are used in this project and try again.
